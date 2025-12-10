@@ -79,12 +79,16 @@ src/
 
 ## Output Screenshot
 
+Login page
 <img width="672" height="402" alt="image" src="https://github.com/user-attachments/assets/2e18e360-ea0b-4355-88cf-7d915072ea66" />
 
+Home Page
 <img width="1204" height="896" alt="image" src="https://github.com/user-attachments/assets/f9cdeffd-a94b-4854-8000-f4653bed75ec" />
 
+Music Streaming
 <img width="937" height="985" alt="image" src="https://github.com/user-attachments/assets/75afc9a2-ccf2-4326-a56a-61d9537a617e" />
 
+Playlist Page
 <img width="964" height="608" alt="image" src="https://github.com/user-attachments/assets/d1eefa8c-f099-42b8-abb3-83371f5d389c" />
 
 
